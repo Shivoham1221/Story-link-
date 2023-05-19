@@ -1,0 +1,25 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/More Info.txt",
+      "sha1": "f6f289890d852aae96de72217f704c54ca6025d2"
+    },
+    {
+      "path": "assets/fonts/Neodex.jpg",
+      "sha1": "e36d4da81587772653fd2e259035fe0e7cc5c710"
+    },
+    {
+      "path": "assets/fonts/Neodex.otf",
+      "sha1": "7d3644d4cfeac40bb8325fd8de91cff9e7c5a153"
+    },
+    {
+      "path": "assets/fonts/Neodex.ttf",
+      "sha1": "419efd2a2bcb4d7b226cb379a8e8cdc4e86c3342"
+    },
+    {
+      "path": "assets/fonts/Read Me.pdf",
+      "sha1": "bb65ea6858896a11ec07b663a17708f1e32456f0"
+    }
+  ]
+}
